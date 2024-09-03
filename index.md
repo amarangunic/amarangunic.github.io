@@ -8,6 +8,6 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 
 ### Contac Information
 * amarangunic@gmail.com
-* [linkedin](https://linkedin.com/in/ana-maría-marangunic-vrsalovic-44a89160)
+* [Linkedin](https://linkedin.com/in/ana-maría-marangunic-vrsalovic-44a89160)
 
 
