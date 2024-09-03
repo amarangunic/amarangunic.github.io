@@ -4,7 +4,7 @@ I am a current PhD student at Universitat Politecnica of Valencia, Spain. My res
 I work in [Geoestudios](https://geoestudios.cl), a company specialized in glaciology, natural risks, geology, among other studies.
 
 ### Images of rock glacier
-![picture of rock glacier](https://blogs.egu.eu/divisions/cr/files/2021/07/NSIDC-rockglacier.jpg "Image credit:Rock Glacier by GlacierNPS")
+![Mississippi Delta](https://blogs.egu.eu/divisions/cr/files/2021/07/NSIDC-rockglacier.jpg "Image credit:Rock Glacier by GlacierNPS")
 
 ### Contac Information
 * amarangunic@gmail.com
