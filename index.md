@@ -4,8 +4,7 @@ I am a current PhD student at Universitat Politecnica of Valencia, Spain. My res
 I work in [Geoestudios](https://geoestudios.cl), a company specialized in glaciology, natural risks, geology, among other studies.
 
 ### Images of rock glacier
-![Rock Glacier in Central´Andes](img/20190215_090613.jpg)
-<img src="img/20190215_090613.jpg" alt="Descripción de la imagen" width="300" height="200">
+<img src="img/20190215_090613.jpg" alt="Rock Glacier in Central´Andes]" width="300" height="200">
 
 ### Contac Information
 * amarangunic@gmail.com
