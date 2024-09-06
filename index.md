@@ -5,6 +5,7 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 
 ### Images of rock glacier
 ![Rock Glacier in Central´Andes](img/20190215_090613.jpg)
+<img src="img/20190215_090613.jpg" alt="Descripción de la imagen" width="300" height="200">
 
 ### Contac Information
 * amarangunic@gmail.com
