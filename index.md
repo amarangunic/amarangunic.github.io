@@ -14,5 +14,5 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 
 #### Experience
 
-#### Map of Univresitat Politecnica of Valencia, Spain
+#### Map of Universitat Politecnica of Valencia, Spain
 <embed type="text/html" src="img/upv(1).html" width="600" height="600">
