@@ -19,4 +19,4 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 
 
 #### Projects:
-[Veery habitat and migrations]()
+* [Veery habitat and migrations](notebooks/veery-migatrion.html)
