@@ -19,7 +19,5 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 
 
 #### Projects:
-* [Veery habitat and migrations]
-(notebooks/veery-migatrion.html)
-* [Maximun Temperature over time in Anchorage, Alaska]
-(noteboks/anchorage_max temp.html)
+* [Veery habitat and migrations](notebooks/veery-migatrion.html)
+* [Maximun Temperature over time in Anchorage, Alaska](noteboks/anchorage_max temp.html)
