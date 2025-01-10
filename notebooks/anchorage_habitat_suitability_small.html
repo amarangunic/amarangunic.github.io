@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habitat Suitability - Anchorage, Alaska</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        .header {
+            background-color: #004b87;
+            padding: 10px;
+            color: white;
+            text-align: center;
+        }
+        .content {
+            padding: 10px;
+            text-align: center;
+        }
+        #map {
+            height: 400px;
+            width: 90%;
+            margin: 10px auto;
+            border-radius: 10px;
+        }
+        .footer {
+            background-color: #004b87;
+            padding: 5px;
+            color: white;
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>Habitat Suitability in Anchorage</h2>
+    </div>
+
+    <div class="content">
+        <p>Explore habitat suitability zones in Anchorage, Alaska. The map below highlights areas with different suitability levels.</p>
+        <div id="map"></div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Habitat Monitoring Project</p>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        const anchorageCoords = [61.2181, -149.9003];
+        const map = L.map('map').setView(anchorageCoords, 10);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        const habitatData = {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "habitat_suitability": "High",
+                        "description": "High biodiversity zone with favorable habitat conditions."
+                    },
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [[
+                            [-149.917, 61.205],
+                            [-149.820, 61.205],
+                            [-149.820, 61.310],
+                            [-149.917, 61.310],
+                            [-149.917, 61.205]
+                        ]]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "habitat_suitability": "Moderate",
+                        "description": "Transition area with medium biodiversity."
+                    },
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [[
+                            [-150.000, 61.150],
+                            [-149.900, 61.150],
+                            [-149.900, 61.250],
+                            [-150.000, 61.250],
+                            [-150.000, 61.150]
+                        ]]
+                    }
+                }
+            ]
+        };
+
+        function getColor(suitability) {
+            switch (suitability) {
+                case "High": return "#1a9850";
+                case "Moderate": return "#fee08b";
+                default: return "#d73027";
+            }
+        }
+
+        L.geoJSON(habitatData, {
+            style: function (feature) {
+                return {
+                    color: getColor(feature.properties.habitat_suitability),
+                    weight: 1,
+                    fillOpacity: 0.6
+                };
+            },
+            onEachFeature: function (feature, layer) {
+                layer.bindPopup(`<strong>${feature.properties.habitat_suitability} Suitability</strong><br>${feature.properties.description}`);
+            }
+        }).addTo(map);
+    </script>
+</body>
+</html>
