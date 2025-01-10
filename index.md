@@ -32,8 +32,8 @@ such as avalanches, debris flow, and baseline studies of glaciers in Chile and A
 The Universitat Politècnica de València (UPV) is a public institution of higher education, founded on March 11,1968 as a Technical University. Over the years, it has
 established itself as one of the most important universities in Spain in the fields of engineering, architecture, science and art.
 Relevant UPV Facts:
-The UPV has three main campuses: Vera (Valencia), Alcoy and Gandía.
-It has a community of more than 36,000 students, around 2,500 professors and 1,500 employees.
+* The UPV has three main campuses: Vera (Valencia), Alcoy and Gandía.
+* It has a community of more than 36,000 students, around 2,500 professors and 1,500 employees.
 
 The UPV map shows the main campus of the Universitat Politècnica de València (UPV), located in the northern part of the city of Valencia. It stands out for being a large,
 organized space surrounded by urban and agricultural areas.
