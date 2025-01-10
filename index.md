@@ -26,8 +26,8 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 Informatics Engineer from Universidad de las Comunicaciones (UNIACC), Chile, with a Master's degree in Geography and Geomatics from Pontificia Universidad Católica, Chile,
 and a Master's degree in Remote Sensing at Universidad Mayor, Chile. A project manager and remote sensing specialist with a focus on the study of glaciers, bringing over
 20 years of expertise in Geoestudios. With 9 years of experience in project management, I have been actively involved in conducting projects related to natural hazards 
-
 such as avalanches, debris flow, and baseline studies of glaciers in Chile and Argentina. Skilled in spatial data analysis with a specialization in surface deformation.
+
 #### Map of Universitat Politecnica of Valencia, Spain
 <embed type="text/html" src="img/upv.html" width="600" height="600">
 
