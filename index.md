@@ -41,7 +41,6 @@ The campus includes academic buildings, green areas, sports facilities, and well
 
 ### Projects:
 * [Veery habitat and migrations](notebooks/veery-migatrion.html)
-* [Maximum Temperature over time in Anchorage, Alaska](notebooks/anchorage_max%20temp.html)
 * [Denver Redlining Project, USA](notebooks/combined_redlining_report.html)
 * [Urban Greenspace and Asthma Prevalence, Chicago, USA](notebooks/Greenspace_Asthma/big-data%20Greenspace-Asthma.html)
 * [Land Cover Classification at the Mississippi Delta](notebooks/clustering%20mississippi.html)
