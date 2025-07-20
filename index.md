@@ -1,4 +1,4 @@
-# Ana Maria Marangunic
+## Ana Maria Marangunic
 
 I am a current PhD student at Universitat Politécnica de Valencia, Spain. My research is focused on analyzing surface displacements in rock glaciers with remote sensing. 
 I work in [Geoestudios](https://geoestudios.cl), a company specialized in glaciology, natural risks, geology, among other studies.
