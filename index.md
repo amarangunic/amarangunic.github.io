@@ -15,8 +15,6 @@ I work in [Geoestudios](https://geoestudios.cl), a company specialized in glacio
 * PhD Candidate, Geomatics Engineering, Polytechnic University of Valencia, Valencia, Spain
 * Master's degree in Geography and Geomatics (M.Sc.), Faculty of History, Geography and Political Science, Pontificia Universidad Católica de Chile.
 * Master's degree in Remote Sensing (M.Sc.), Universidad Mayor, Santiago, Chile
-* Graduate Certificate in Remote Sensing, Universidad Mayor, Santiago, Chile
-* Graduate Certificate in Geomatics, Faculty of History, Geography, and Political Science, Pontificia Universidad Católica de Chile.
 * Certificate in Glaciology, organized by United Nations Environment Program, Quito, Ecuador
 * Bachelor's degree in Engineering Informatics and Multimedia, University of Arts, Sciences and Communication (UNIACC),   Santiago, Chile
 * Completed the requirements for the degree, Livestock/Animal Technician, Santo Tomás Technical Training Center Institute, Santiago of Chile.
