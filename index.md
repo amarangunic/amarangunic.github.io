@@ -4,7 +4,7 @@ I am a current PhD student at [Universitat Politècnica de València](https://ww
 I work in [Geoestudios](https://geoestudios.cl), a company specialized in glaciology, natural risks, geology, among other studies.
 
 ### Contac Information
-* [email](mailto:amarangunic@gmail.com)
+* [Ana Maria`s email](mailto:amarangunic@gmail.com)
 * [Linkedin](https://linkedin.com/in/ana-maría-marangunic-vrsalovic-44a89160)
 
 #### Education Background
