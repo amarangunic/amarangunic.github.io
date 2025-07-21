@@ -36,9 +36,10 @@ The campus includes academic buildings, green areas, sports facilities, and well
 <embed type="text/html" src="img/upv.html" width="600" height="600">
 
 #### Pontificia Universidad Católica of Chile
-The Pontifical Catholic University of Chile has five campuses, one of which is the San Joaquín campus, home to the Department of History and Geography. Located in Santiago, the
-campus offers a master’s program in Geography and Geomatics—one of which I completed there. It features extensive green areas and a wide range of student services. The campus 
-area is shown below.
+The Pontifical Catholic University of Chile is spread across five campuses, each with its unique charm. The San Joaquin campus,
+home to the Department of History and Geography, is a sight to behold. The campus, located in the vibrant city of Santiago,
+Chile is adorned with lush green areas that provide a serene and relaxing environment. The university offers a master's degree
+in Geography and Geomatics and a wide range of student services. The campus area is showcased below..
 
 <embed type="text/html" src="img/PUC.html" width="600" height="600">
 
