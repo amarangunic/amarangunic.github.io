@@ -32,13 +32,17 @@ Relevant UPV Facts:
 The UPV map shows the main campus of the Universitat Politècnica de València (UPV), located in the northern part of the city of Valencia. It stands out for being a large,
 organized space surrounded by urban and agricultural areas.
 The campus includes academic buildings, green areas, sports facilities, and well-defined access, making it a functional environment for learning, research, and university life.
+
 <embed type="text/html" src="img/upv.html" width="600" height="600">
 
 
 #### Pontificia Universidad Católica of Chile
 The Pontifical Catholic University of Chile has five campuses, one of which is the San Joaquín campus, home to the Department of History and Geography. Located in Santiago, the
-campus offers a master’s program in Geography and Geomatics—one of which I completed there. It features extensive green areas and a wide range of student services. The campus area is shown below.
+campus offers a master’s program in Geography and Geomatics—one of which I completed there. It features extensive green areas and a wide range of student services. The campus 
+area is shown below.
+
 <embed type="text/html" src="img/PUC.html" width="600" height="600">
+
 
 ### Projects:
 * [Veery habitat and migrations](notebooks/veery-migatrion.html)
