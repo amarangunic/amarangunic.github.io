@@ -49,3 +49,10 @@ in Geography and Geomatics and a wide range of student services. The campus area
 * [Denver Redlining Project, USA](notebooks/combined_redlining_report.html)
 * [Urban Greenspace and Asthma Prevalence, Chicago, USA](notebooks/Greenspace_Asthma/big-data%20Greenspace-Asthma.html)
 * [Land Cover Classification at the Mississippi Delta](notebooks/clustering%20mississippi.html)
+* [Karachi, Pakistan Climate Trends (1942–2025)](notebooks/karachi_avg_temp_with_gaps.html)
+#### Observations on the Average Annual Temperature in Karachi, Pakistan
+
+- **There is a general upward trend in average annual temperatures from the 1980s to 2023**  
+  This may be linked to global climate change, as well as the urban expansion of Karachi, which contributes to the urban heat island effect and overall temperature increases.
+- **There are clear gaps and abrupt jumps in the data, particularly between 1950 and 1970**  
+  These anomalies are likely caused by missing or incomplete data, errors in historical data collection, or inconsistencies in temperature recording methods. The sharp drop to around 18 °C followed by a sudden rise in 1950 suggests possible data entry issues or lack of quality control in older datasets.
